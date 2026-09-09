@@ -37,7 +37,7 @@ Sistema de reservas y gestión para barberías, pensado para múltiples instalac
 ### 🔧 Sistema de Gestión de Mantenimiento (Hospital de Niños Sor María Ludovica)
 La aplicación que diseñé e implementé en mi pasantía: reemplazó el registro en papel del pañol y el mantenimiento correctivo. Cubre el circuito completo —pedido, asignación, cierre de orden y descuento automático de materiales— sobre más de 490 materiales reales y el plano físico de 35 estanterías. Incluye un formulario público de solicitud vía QR para cualquier sector del hospital. Actualmente en migración hacia una versión PWA con Next.js. *(Código privado — datos operativos reales del hospital)*
 
-`Python` `Streamlit` `Next.js (en migración)` · En uso real desde 2025
+`Python` `Streamlit` `Next.js (en migración)` · En uso real desde 2026
 
 ---
 
