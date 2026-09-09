@@ -1,6 +1,6 @@
 # ¡Hola! Soy Juan Serrano 👋
 
-Estudiante avanzado de **Ingeniería Industrial** (UTN La Plata) enfocado en **operaciones, procesos y datos**. Combino la mirada de campo —inventarios, layout, 5S, mejora continua— con desarrollo de software para digitalizar procesos que hoy se resuelven a mano o en papel.
+Estudiante avanzado de **Ingeniería Industrial** (UTN La Plata) enfocado en **operaciones, procesos y datos**. Combino la mirada de campo —inventarios, layout, 5S, mejora continua— con la construcción de herramientas digitales propias para digitalizar y optimizar procesos que hoy se resuelven a mano o en papel
 
 Actualmente soy **pasante de Operaciones e Inventarios** en el Hospital de Niños Sor María Ludovica (La Plata), donde gestiono cerca de 570 SKU y ~800 movimientos mensuales, y donde relevé, diseñé e implementé desde cero una aplicación de inventarios y trazabilidad que reemplazó el registro en papel.
 
