@@ -20,7 +20,7 @@ Plataforma sobre un caso industrial simulado (3 líneas, 18 SKU) que compara un 
 `Next.js` `React` `TypeScript` `Recharts` · [Demo](https://optiflow-industrial.vercel.app) · [Código](https://github.com/Serran0Juan/optiflow-industrial)
 
 ### 🏭 SOLIA LP — Soluciones Artificiales La Plata
-Mi propia consultora de ingeniería industrial para PyMEs: mido procesos actuales, identifico ineficiencias e implemento soluciones de software para reducir tiempo de ciclo, errores y trabajo manual. Metodología en 4 pasos (medir → mapear → rediseñar → sostener), con casos reales de digitalización de mantenimiento hospitalario, automatización de reportes de compras y gestión de inventario retail.
+Proyecto de un grupo de estudiantes avanzados de Ingeniería Industrial —junto a un graduado reciente— para aplicar lo aprendido en la facultad a casos reales: medimos procesos de pymes y empresas más chicas, identificamos ineficiencias e implementamos soluciones de software para reducir tiempo de ciclo, errores y trabajo manual. Metodología en 4 pasos (medir → mapear → rediseñar → sostener), con casos reales de digitalización de mantenimiento hospitalario, automatización de reportes de compras y gestión de inventario retail.
 
 `Next.js` `Automatización` `Consultoría de procesos` · [Sitio](https://solialp.com.ar)
 
