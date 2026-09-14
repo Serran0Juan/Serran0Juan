@@ -6,7 +6,7 @@ Actualmente soy **pasante de Operaciones e Inventarios** en el Hospital de Niño
 
 - 🎓 Ingeniería Industrial — UTN FRLP (70% aprobado, finalización estimada nov. 2027)
 - 🔬 Becario de Investigación en Lean Manufacturing (UTN FRLP, 2024): gestioné el laboratorio y diseñé una simulación de línea de producción para escuelas técnicas (Kaizen, capacidad, tiempos de ciclo, cuellos de botella)
-- 📚 En paralelo: Data Science + IA (Fundación YPF), Data Analytics y AI Automation (Coderhouse), Gestión de Proyectos (Google/Coursera)
+- 📚 Formación complementaria: Data Analytics y AI Automation Avanzado (Coderhouse), Certificado Profesional de Gestión de Proyectos de Google (Coursera) · En curso: Data Science + IA (Fundación YPF)
 - 🛠️ Operaciones: inventarios, logística interna, 5S, Lean, Kaizen, layout, planeamiento
 - 📊 Datos: Excel avanzado, Power BI, Power Query, DAX, SQL, Python, Tableau
 - 💻 Digitalización: React, TypeScript, Next.js, AppSheet, Power Automate, Google Sheets, Vercel, Git/GitHub
