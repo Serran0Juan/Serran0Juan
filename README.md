@@ -1,12 +1,16 @@
 # ¡Hola! Soy Juan Serrano 👋
 
-Estudiante avanzado de **Ingeniería Industrial** (UTN La Plata) enfocado en **operaciones, procesos y datos**. Combino la mirada de campo —inventarios, layout, 5S, mejora continua— con la construcción de herramientas digitales propias para digitalizar y optimizar procesos que hoy se resuelven a mano o en papel
+Estudiante avanzado de **Ingeniería Industrial** (UTN La Plata) orientado a **Operaciones, Supply Chain y Planeamiento**. Combino la mirada de campo —inventarios, layout, 5S, Lean, mejora continua— con desarrollo de software para digitalizar procesos que hoy se resuelven a mano o en papel.
 
-Actualmente soy **pasante de Operaciones e Inventarios** en el Hospital de Niños Sor María Ludovica (La Plata), donde gestiono cerca de 570 SKU y ~800 movimientos mensuales, y donde relevé, diseñé e implementé desde cero una aplicación de inventarios y trazabilidad que reemplazó el registro en papel.
+Actualmente soy **pasante de Operaciones e Inventarios** en el Hospital de Niños Sor María Ludovica (La Plata), donde lideré la digitalización completa del inventario (+570 SKU, +$170 millones valorizados, +800 movimientos mensuales): reorganicé el layout con 5S, ubiqué el 77% de los SKU y bajé el tiempo de búsqueda de 10-12 a 3-4 minutos; diseñé e implementé la aplicación multiusuario que reemplazó el papel, con indicadores de stock y alertas de mínimo, y capacité a más de 30 usuarios.
 
 - 🎓 Ingeniería Industrial — UTN FRLP (70% aprobado, finalización estimada nov. 2027)
-- 🔭 En paralelo, formándome en Data Science + IA (Fundación YPF), Data Analytics (Coderhouse) y Gestión de Proyectos (Google/Coursera)
-- 🛠️ Stack: React, TypeScript, Next.js, Python, SQL, Power BI / Power Query / DAX
+- 🔬 Becario de Investigación en Lean Manufacturing (UTN FRLP, 2024): gestioné el laboratorio y diseñé una simulación de línea de producción para escuelas técnicas (Kaizen, capacidad, tiempos de ciclo, cuellos de botella)
+- 📚 En paralelo: Data Science + IA (Fundación YPF), Data Analytics y AI Automation (Coderhouse), Gestión de Proyectos (Google/Coursera)
+- 🛠️ Operaciones: inventarios, logística interna, 5S, Lean, Kaizen, layout, planeamiento
+- 📊 Datos: Excel avanzado, Power BI, Power Query, DAX, SQL, Python, Tableau
+- 💻 Digitalización: React, TypeScript, Next.js, AppSheet, Power Automate, Google Sheets, Vercel, Git/GitHub
+- 🤖 IA generativa aplicada: Claude Code, Codex y Gemini para análisis, automatización y desarrollo de soluciones operativas
 - 📍 Berisso, Buenos Aires, Argentina
 - 💼 [LinkedIn](https://www.linkedin.com/in/juan-serrano1/)
 
@@ -20,7 +24,7 @@ Plataforma sobre un caso industrial simulado (3 líneas, 18 SKU) que compara un 
 `Next.js` `React` `TypeScript` `Recharts` · [Demo](https://optiflow-industrial.vercel.app) · [Código](https://github.com/Serran0Juan/optiflow-industrial)
 
 ### 🏭 SOLIA LP — Soluciones Artificiales La Plata
-Proyecto de un grupo de estudiantes avanzados de Ingeniería Industrial —junto a un graduado reciente— para aplicar lo aprendido en la facultad a casos reales: medimos procesos de pymes y empresas más chicas, identificamos ineficiencias e implementamos soluciones de software para reducir tiempo de ciclo, errores y trabajo manual. Metodología en 4 pasos (medir → mapear → rediseñar → sostener), con casos reales de digitalización de mantenimiento hospitalario, automatización de reportes de compras y gestión de inventario retail.
+Mi propia consultora de ingeniería industrial para PyMEs: mido procesos actuales, identifico ineficiencias e implemento soluciones de software para reducir tiempo de ciclo, errores y trabajo manual. Metodología en 4 pasos (medir → mapear → rediseñar → sostener), con casos reales de digitalización de mantenimiento hospitalario, automatización de reportes de compras y gestión de inventario retail.
 
 `Next.js` `Automatización` `Consultoría de procesos` · [Sitio](https://solialp.com.ar)
 
@@ -37,7 +41,12 @@ Sistema de reservas y gestión para barberías, pensado para múltiples instalac
 ### 🔧 Sistema de Gestión de Mantenimiento (Hospital de Niños Sor María Ludovica)
 La aplicación que diseñé e implementé en mi pasantía: reemplazó el registro en papel del pañol y el mantenimiento correctivo. Cubre el circuito completo —pedido, asignación, cierre de orden y descuento automático de materiales— sobre más de 490 materiales reales y el plano físico de 35 estanterías. Incluye un formulario público de solicitud vía QR para cualquier sector del hospital. Actualmente en migración hacia una versión PWA con Next.js. *(Código privado — datos operativos reales del hospital)*
 
-`Python` `Streamlit` `Next.js (en migración)` · En uso real desde 2026
+`Python` `Streamlit` `Next.js (en migración)` · En uso real desde 2025
+
+### 🧪 Panel de auditoría de calidad de datos
+Herramienta para controlar la completitud de planillas operativas: detecta campos y registros incompletos y analiza la calidad de carga por usuario, con filtros y exportación. Todo el procesamiento ocurre localmente en el navegador, sin persistir datos identificatorios.
+
+`React` `TypeScript` `SheetJS`
 
 ---
 
